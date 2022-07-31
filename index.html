@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fruit & Fruits</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="src/style.css">
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg bg-light fixed-top">
+        <div class="container-fluid">
+          <a class="navbar-brand title title-color" href="#">Fruit & Fruits</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item"><a class="nav-link active" href="#" aria-current="page">Home</a></li>
+              <li class="nav-item"><a class="nav-link" href="#">Recipes</a></li>
+              <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
+              <li class="nav-item"><a class="nav-link" data-bs-toggle="modal" data-bs-target="#modal-contact" href="#">Contact Us</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        </div>
+
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="src/img/carrossel-img1.jpg" class="d-block w-100 carousel-img one" alt="street market">
+
+            <div class="carousel-caption d-none d-md-block h-50">
+              <h1 class="carousel-title display-4">Reuse food better!</h1>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <img src="src/img/carrossel-img2.jpg" class="d-block w-100 carousel-img two" alt="people picking spices">
+
+            <div class="carousel-caption d-none d-md-block h-50">
+              <h1 class="carousel-title display-4">Save money and gain in health!</h1>
+            </div>
+          </div>
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </section>
+
+      <section>
+        <h2 class="text-center title title-color pt-5">Recipes for saving money and improving health</h2>
+        <p class="text-center text-secondary pb-5">Our recipes help you make the most of your food, save money, time and convenience</p>
+      </section>
+
+      <section class="container bg-light">
+        <div class="row justify-content-center">
+          <article class="card bd-color card-size m-4 p-0">
+            <img src="src/img/receita-abacate.jpg" class="card-img-top card-img-position" alt="bowl with avocado mousse, top view">
+            <div class="card-body">
+              <h3 class="card-rc-title">Fruits Salad Bowl</h3>
+              <p>A refreshing and vitamin-packed recipe for your breakfast!</p>
+              <a href="#" class="btn btn-bg">View Recipe</a>
+            </div>
+          </article>
+
+          <article class="card bd-color card-size m-4 p-0">
+            <img src="src/img/receita-kiwi.jpg" class="card-img-top card-img-position" alt="kiwi strawberry mousse bowl, top view">
+            <div class="card-body">
+              <h3 class="card-rc-title">Strawberry Kiwi Bowl</h3>
+              <p>A refreshing and vitamin-packed recipe for your breakfast!</p>
+              <a href="#" class="btn btn-bg">View Recipe</a>
+            </div>
+          </article>
+
+          <article class="card bd-color card-size m-4 p-0">
+            <img src="src/img/receita-mix.jpg" class="card-img-top card-img-position" alt="a plate with vegetable mix and person's hand adding olive oil, top view">
+            <div class="card-body">
+              <h3 class="card-rc-title">Vegetable Mix</h3>
+              <p>Raw, vitamin-packed recipe for your lunch!</p>
+              <a href="#" class="btn btn-bg">View Recipe</a>
+            </div>
+          </article>
+
+          <article class="card bd-color card-size m-4 p-0">
+            <img src="src/img/receita-pimentoes.jpg" class="card-img-top card-img-position" alt="salad plate of bell peppers and raw tomatoes, top view">
+            <div class="card-body">
+              <h3 class="card-rc-title">Bell Peppers Juliana Style</h3>
+              <p>Refreshing and vitamin-packed recipe for your salad!</p>
+              <a href="#" class="btn btn-bg">View Recipe</a>
+            </div>
+          </article>
+
+          <article class="card bd-color card-size m-4 p-0">
+            <img src="src/img/receita-oriental.jpg" class="card-img-top card-img-position" alt="plate with oriental-style vegetable salad, top view">
+            <div class="card-body">
+              <h3 class="card-rc-title">Orient Salad</h3>
+              <p>Raw, vitamin-packed recipe for your lunch!</p>
+              <a href="#" class="btn btn-bg">View Recipe</a>
+            </div>
+          </article>
+
+          <article class="card bd-color card-size m-4 p-0">
+            <img src="src/img/receita-beterrabas.jpg" class="card-img-top card-img-position" alt="bowl with roasted beets and garlic cloves in the foreground, with ingredients in the background">
+            <div class="card-body">
+              <h3 class="card-rc-title">Roasted Beets</h3>
+              <p>Antioxidant and invigorating recipe for your post-workout!</p>
+              <a href="#" class="btn btn-bg">View Recipe</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- <section class="container text-center">
+        <h3 class="title title-color title-profile p-4">About Us</h3>	
+      </section>
+
+      <section class="card-group container">
+        <div class="card card-size">
+          <img src="src/img/quemsomos-roberta.jpg" class="card-img-top card-profile rounded-circle" alt="the one responsible for social media">
+          <div class="card-body">
+            <h4 class="card-title">Roberta</h5>
+            <p class="card-text">Social media</p>
+          </div>
+        </div>
+
+        <div class="card card-size">
+          <img src="src/img/quemsomos-marcela.jpg" class="card-img-top card-profile rounded-circle" alt="the chef">
+          <div class="card-body">
+            <h4 class="card-title">Marcela</h5>
+            <p class="card-text">Chef</p>
+          </div>
+        </div>
+
+        <div class="card card-size">
+          <img src="src/img/quemsomos-andreia.jpg" class="card-img-top card-profile rounded-circle" alt="the small farmer">
+          <div class="card-body">
+            <h4 class="card-title">Andreia</h5>
+            <p class="card-text">Small farmer</p>
+          </div>
+        </div>
+      </section> -->
+    </main>
+
+    <footer class="bg-secondary p-3">
+      <p class="text-light m-0 text-center">Contact: <a class="text-light" href="mailto:email@frutafruto.com.br"> email@fruitfruits.com</a></p>
+    </footer>
+
+    <section>
+      <div class="modal fade" id="modal-contact" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <dialog class="modal-content">
+            <header>
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            </header>
+
+            <main>
+              <div class="modal-body">
+                <form action="">
+                  <div class="mb-3">
+                    <label for="formGroupExampleInput" class="form-label">Full Name</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Enter your name">
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Leave a Comment</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Add your comment here"></textarea>
+                  </div>
+                </form>
+              </div>
+            </main>
+
+            <footer>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-bg">Submit</button>
+              </div>
+            </footer>
+          </dialog>
+        </div>
+      </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+  </body>
+</html>

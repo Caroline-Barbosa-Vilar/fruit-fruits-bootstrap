@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+a {
+  text-decoration: none;
+}
+.carousel-img {
+  height: 25rem;
+  object-fit: cover;
+}
+.carousel-img.one {
+  object-position: 0 65%;
+}
+.carousel-title, .title{
+  font-family: 'Pacifico', cursive;
+}
+
+.title-color {
+  color: #8b0000;
+}
+
+.card-size {
+  max-width: 18rem;
+}
+.card-img-position {
+  object-fit: cover;
+  height: 12.5rem;
+}
+.card-rc-title {
+  font-size: 1.37rem;
+}
+
+.btn-bg {
+  background-color: #8b0000;
+  color: #ffffff;
+}
+
+
+.bd-color {
+  border-color: #8b0000;
+}
+
+.title-profile {
+  font-size: 2rem;
+}
+
+.card-profile {
+  width: 18rem;
+  height: 18rem;
+}
