@@ -43,7 +43,11 @@ a {
   font-size: 2rem;
 }
 
-.card-profile {
-  width: 18rem;
+.card-group-profile {
   height: 18rem;
+  object-fit: cover;
+}
+
+.card-group-border {
+  border: none;
 }
