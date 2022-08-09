@@ -19,7 +19,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [What I learned](#what-I-learned)
 
-<!-- - [Access the Project](#access-the-project) -->
+- [Access the Project](#access-the-project)
 
 <br>
 
@@ -48,21 +48,21 @@ Project to exercise the content of the course 'Bootstrap5: Creating a responsive
 
 <br>
 
-<!-- ## Access the Project
+ ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/alura-plus) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/fruit-fruits-bootstrap/) 
 
-Mobile
+<!--Mobile
 
 <img src="./.gif" alt="mobile screen gif">
 
 Tablet 
 
-<img src="./.gif" alt="desktop screen gif">
+<img src="./.gif" alt="desktop screen gif"> -->
 
 Desktop 
 
-<img src="./.gif" alt="desktop screen gif"> -->
+<img src="./src/fruits-bootstrap-desktop-screen.gif" alt="desktop screen gif"> 
 
 <br>
 
@@ -86,7 +86,7 @@ Desktop
 
 - [O que aprendi](#o-que-aprendi)
 
-<!-- - [Acesse o projeto](#acesse-o-projeto) -->
+- [Acesse o projeto](#acesse-o-projeto)
 
 <br>
 
@@ -114,22 +114,21 @@ Projeto para exercitar o conteúdo do curso 'Bootstrap: criando uma landing page
 
 <br>
 
-<!-- ## Acesse o projeto
+## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/testimonials-project/) 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/fruit-fruits-bootstrap/) 
 
-Mobile
+<!-- Mobile
 
 <img src="./.gif" alt="mobile screen gif">
 
 Tablet 
 
-<img src="./.gif" alt="desktop screen gif">
+<img src="./.gif" alt="desktop screen gif"> -->
 
 Desktop 
 
-<img src="./.gif" alt="desktop screen gif"> -->
-
+<img src="./src/fruits-bootstrap-desktop-screen.gif" alt="desktop screen gif">
 <br>
 <hr>
 
