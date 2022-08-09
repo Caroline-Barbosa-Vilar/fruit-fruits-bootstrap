@@ -52,13 +52,13 @@ Project to exercise the content of the course 'Bootstrap5: Creating a responsive
 
 You can [access the project here](https://caroline-barbosa-vilar.github.io/fruit-fruits-bootstrap/) 
 
-<!--Mobile
+Mobile
 
-<img src="./.gif" alt="mobile screen gif">
+<img src="./src/fruits-bootstrap-mobile-screen.gif" alt="mobile screen gif">
 
 Tablet 
 
-<img src="./.gif" alt="desktop screen gif"> -->
+<img src="./src/fruits-bootstrap-tablet-screen.gif" alt="desktop screen gif">
 
 Desktop 
 
@@ -118,13 +118,13 @@ Projeto para exercitar o conteúdo do curso 'Bootstrap: criando uma landing page
 
 Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/fruit-fruits-bootstrap/) 
 
-<!-- Mobile
+Mobile
 
-<img src="./.gif" alt="mobile screen gif">
+<img src="./src/fruits-bootstrap-mobile-screen.gif" alt="mobile screen gif">
 
 Tablet 
 
-<img src="./.gif" alt="desktop screen gif"> -->
+<img src="./src/fruits-bootstrap-tablet-screen.gif" alt="desktop screen gif">
 
 Desktop 
 
