@@ -1,4 +1,3 @@
-<p align='center'><img src="./src/alura-plus-header-screenshot.png" alt="The Alura plus "></p>
 
 <h1 align='center'> Fruit & Fruits </h1>
 
