@@ -27,7 +27,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 ## Project description
 
 <p align="justify">
-Project to exercise the content of the course 'Bootstrap5: Creating a responsive landing page' exclusive for students of the school of technology [Alura](https://www.alura.com.br).
+This project was developed during the course 'Bootstrap5: Creating a responsive landing page' at [Alura](https://www.alura.com.br) technology school.
 </p>
 
 <br>
