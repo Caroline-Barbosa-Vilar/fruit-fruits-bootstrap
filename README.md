@@ -1,15 +1,17 @@
-<p align='center'> <img src="./src/alura.jpg" alt="alura logo"> </p>
+<p align='center'><img src="./src/alura-plus-header-screenshot.png" alt="The Alura plus "></p>
 
-<h1 align='center'>Fruit & Fruits</h1>
+<h1 align='center'> Fruit & Fruits </h1>
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap"></a>
 </div>
 
-<br>
 
 _Para a versão em Português, clique [aqui](#portuguese)._
 
+<br>
 
 ### Topics
 
@@ -23,11 +25,11 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <br>
 
-
 ## Project description
 
 <p align="justify">
-	This page was developed during the course 'Bootstrap5: Creating a responsive landing page' at [Alura](https://www.alura.com.br) technology school.
+
+This page was developed during the course 'Bootstrap5: Creating a responsive landing page' at [Alura](https://www.alura.com.br) technology school.
 </p>
 
 <br>
@@ -37,6 +39,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/BOOTSTRAP5-7836F9?style=for-the-badge&logo=bootstrap5&logoColor=white">
 </div>
 
 <br>
@@ -46,9 +49,10 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 - How the lib works;
 - How to customize styling according to the design without overwriting bootstrap.
 
+
 <br>
 
- ## Access the Project
+## Access the Project
 
 You can [access the project here](https://caroline-barbosa-vilar.github.io/fruit-fruits-bootstrap/) 
 
@@ -69,11 +73,12 @@ Desktop
 <div id="portuguese">
 
 
-<h1 align='center'>Fruto & Frutas</h1>
-
+<h1 align='center'> Fruto & Frutas </h1>
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/fruit-fruits-bootstrap"></a>
 </div>
 
 <br>
@@ -93,7 +98,8 @@ Desktop
 ## Descrição do projeto 
 
 <p align="justify">
-	Essa página foi desenvolvida durante o curso 'Bootstrap: criando uma landing page responsiva' da escola de tecnologia [Alura](https://www.alura.com.br).
+
+Essa página foi desenvolvida durante o curso de 'Bootstrap: criando uma landing page responsiva' da escola de tecnologia [Alura](https://www.alura.com.br).
 </p>
 
 <br>
@@ -103,6 +109,7 @@ Desktop
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/BOOTSTRAP5-7836F9?style=for-the-badge&logo=bootstrap5&logoColor=white">
 </div>
 
 <br>
@@ -117,6 +124,7 @@ Desktop
 ## Acesse o projeto
 
 Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/fruit-fruits-bootstrap/) 
+
 
 Mobile
 
